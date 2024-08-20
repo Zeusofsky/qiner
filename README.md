@@ -1,1 +1,1 @@
-# qiner
+# reference-miner
